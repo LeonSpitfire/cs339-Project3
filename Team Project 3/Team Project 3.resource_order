@@ -17,7 +17,13 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"oInputs","order":4,"path":"objects/oInputs/oInputs.yy",},
+    {"name":"oLightning","order":2,"path":"objects/oLightning/oLightning.yy",},
+    {"name":"oLightningSpawner","order":3,"path":"objects/oLightningSpawner/oLightningSpawner.yy",},
+    {"name":"oPlayer2","order":5,"path":"objects/oPlayer2/oPlayer2.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"sLightning","order":2,"path":"sprites/sLightning/sLightning.yy",},
+    {"name":"sPlayer2","order":3,"path":"sprites/sPlayer2/sPlayer2.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
   ],
 }
