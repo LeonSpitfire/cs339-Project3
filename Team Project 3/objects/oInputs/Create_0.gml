@@ -1,10 +1,15 @@
+xAxis = 0
+yAxis = 0
+rAxis = 0
+uAxis = 0
+xAxis2 = 0	
+yAxis2 = 0		
+rAxis2 = 0
+uAxis2 = 0
 
-
-	
-		
-		
 
 leftAnalogDirection = 0
+leftAnalogDirection2 = 0
 
  gp_num = gamepad_get_device_count();
 if gamepad_is_connected(0){
