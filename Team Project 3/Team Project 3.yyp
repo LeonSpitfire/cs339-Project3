@@ -50,6 +50,7 @@
     {"id":{"name":"sLightning","path":"sprites/sLightning/sLightning.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sPlayer2","path":"sprites/sPlayer2/sPlayer2.yy",},},
+    {"id":{"name":"Sarrow","path":"sprites/Sarrow/Sarrow.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
   ],
   "resourceType":"GMProject",
