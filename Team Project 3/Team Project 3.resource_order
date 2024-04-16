@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"oArrow","order":6,"path":"objects/oArrow/oArrow.yy",},
     {"name":"oInputs","order":4,"path":"objects/oInputs/oInputs.yy",},
     {"name":"oLightning","order":2,"path":"objects/oLightning/oLightning.yy",},
     {"name":"oLightningSpawner","order":3,"path":"objects/oLightningSpawner/oLightningSpawner.yy",},
@@ -26,9 +27,9 @@
     {"name":"rOcean","order":2,"path":"rooms/rOcean/rOcean.yy",},
     {"name":"rOlympus","order":4,"path":"rooms/rOlympus/rOlympus.yy",},
     {"name":"rUnderworld","order":3,"path":"rooms/rUnderworld/rUnderworld.yy",},
+    {"name":"Sarrow","order":4,"path":"sprites/Sarrow/Sarrow.yy",},
     {"name":"sLightning","order":2,"path":"sprites/sLightning/sLightning.yy",},
     {"name":"sPlayer2","order":3,"path":"sprites/sPlayer2/sPlayer2.yy",},
-    {"name":"Sarrow","order":4,"path":"sprites/Sarrow/Sarrow.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
   ],
 }
