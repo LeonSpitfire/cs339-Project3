@@ -34,6 +34,7 @@
   },
   "name":"Team Project 3",
   "resources":[
+    {"id":{"name":"fTitle","path":"fonts/fTitle/fTitle.yy",},},
     {"id":{"name":"oInputs","path":"objects/oInputs/oInputs.yy",},},
     {"id":{"name":"oLightning","path":"objects/oLightning/oLightning.yy",},},
     {"id":{"name":"oLightningSpawner","path":"objects/oLightningSpawner/oLightningSpawner.yy",},},
@@ -42,8 +43,8 @@
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"rForest","path":"rooms/rForest/rForest.yy",},},
     {"id":{"name":"rOcean","path":"rooms/rOcean/rOcean.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"rOlympus","path":"rooms/rOlympus/rOlympus.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"rUnderworld","path":"rooms/rUnderworld/rUnderworld.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"sLightning","path":"sprites/sLightning/sLightning.yy",},},
