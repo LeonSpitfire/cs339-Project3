@@ -22,6 +22,7 @@
     {"name":"oLightningSpawner","order":3,"path":"objects/oLightningSpawner/oLightningSpawner.yy",},
     {"name":"oPlayer2","order":5,"path":"objects/oPlayer2/oPlayer2.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"sLightning","order":2,"path":"sprites/sLightning/sLightning.yy",},
     {"name":"sPlayer2","order":3,"path":"sprites/sPlayer2/sPlayer2.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
