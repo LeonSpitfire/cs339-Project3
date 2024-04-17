@@ -27,9 +27,11 @@
     {"name":"rOcean","order":2,"path":"rooms/rOcean/rOcean.yy",},
     {"name":"rOlympus","order":4,"path":"rooms/rOlympus/rOlympus.yy",},
     {"name":"rUnderworld","order":3,"path":"rooms/rUnderworld/rUnderworld.yy",},
+    {"name":"olympusTop","order":5,"path":"sprites/olympusTop/olympusTop.yy",},
     {"name":"Sarrow","order":4,"path":"sprites/Sarrow/Sarrow.yy",},
     {"name":"sLightning","order":2,"path":"sprites/sLightning/sLightning.yy",},
     {"name":"sPlayer2","order":3,"path":"sprites/sPlayer2/sPlayer2.yy",},
+    {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
   ],
 }
