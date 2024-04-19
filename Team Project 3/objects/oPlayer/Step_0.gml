@@ -36,20 +36,28 @@ else if !place_meeting(x, y+normalGravity, oWall) {
 
 // moving right
 //if keyboard_check_direct(vk_right) {
-if(oInputs.xAxis > movementThreshold){
+if abs(oInputs.xAxis > movementThreshold){
     // is there space for me to move right?
     if !place_meeting(x+normalSpeed, y, oWall) {
        hspeed = oInputs.xAxis*movementSpeed
+	  
 	   
     }
 }
-
-if(oInputs.xAxis > movementThreshold){
-     //is there space for me to move right?
+else if abs(oInputs.xAxis < -movementThreshold){
+    // is there space for me to move right?
     if !place_meeting(x-normalSpeed, y, oWall) {
-        hspeed = -normalSpeed
+       hspeed = oInputs.xAxis*movementSpeed
+	  
+	   
     }
-}
+} 
+//if abs(oInputs.xAxis > movementThreshold){
+     //is there space for me to move right?
+  //  if !place_meeting(x-normalSpeed, y, oWall) {
+    //    hspeed = -oInputs.xAxis*movementSpeed
+    //}
+//}
 
 // jumping
 // am i on the ground, and is there space above my head to jump?

@@ -6,6 +6,7 @@ xAxis2 = 0
 yAxis2 = 0		
 rAxis2 = 0
 uAxis2 = 0
+lrmove = 0
 
 
 leftAnalogDirection = 0
@@ -18,6 +19,7 @@ if gamepad_is_connected(0){
 		yAxis = gamepad_axis_value(0,1)
 		rAxis = gamepad_axis_value(0,2)
 		uAxis = gamepad_axis_value(0,3)
+		lrmove =  gamepad_axis_value(0,gp_axislh)
 		
 	if gamepad_is_connected(1)	
 		xAxis2 = gamepad_axis_value(1,0)
