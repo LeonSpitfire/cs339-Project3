@@ -1,6 +1,6 @@
 /// @description Move to next room
 
-with (oPlayer )
+with (oPlayer2)
 {
 	//if(hascontrol)
 		hascontrol = false;
