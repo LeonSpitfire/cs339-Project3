@@ -1,4 +1,4 @@
-//@desc Control Menu
+///@desc Control Menu
 //Items come in
 menu_x += (menu_x_target - menu_x) / menu_speed;
 
