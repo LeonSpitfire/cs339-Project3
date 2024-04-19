@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"fTitle","path":"fonts/fTitle/fTitle.yy",},},
     {"id":{"name":"oArrow","path":"objects/oArrow/oArrow.yy",},},
+    {"id":{"name":"oWaterball","path":"objects/oWaterball/oWaterball.yy",},},
     {"id":{"name":"Ofireball","path":"objects/Ofireball/Ofireball.yy",},},
     {"id":{"name":"oInputs","path":"objects/oInputs/oInputs.yy",},},
     {"id":{"name":"oLevelEnd","path":"objects/oLevelEnd/oLevelEnd.yy",},},
@@ -71,6 +72,7 @@
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
     {"id":{"name":"sTrigger","path":"sprites/sTrigger/sTrigger.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
+    {"id":{"name":"sWaterball","path":"sprites/sWaterball/sWaterball.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
