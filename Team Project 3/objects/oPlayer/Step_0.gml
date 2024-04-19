@@ -1,6 +1,6 @@
 /// @description Controller Movement
 // You can write your code in this editor
-if room == (Room1) and  abs(oInputs.xAxis) > movementThreshold or abs(oInputs.yAxis) > movementThreshold{
+if room == Room1 and  abs(oInputs.xAxis) > movementThreshold or room == Room1 and abs(oInputs.yAxis) > movementThreshold{
 	direction = oInputs.leftAnalogDirection
 	speed = movementSpeed
 }
@@ -39,16 +39,17 @@ else if !place_meeting(x, y+normalGravity, oWall) {
 if(oInputs.xAxis > movementThreshold){
     // is there space for me to move right?
     if !place_meeting(x+normalSpeed, y, oWall) {
-        speed = normalSpeed
+       hspeed = oInputs.xAxis*movementSpeed
+	   
     }
 }
 
-//if(oInputs.xAxis > movementThreshold){
-    // is there space for me to move right?
-    //if !place_meeting(x-normalSpeed, y, oWall) {
-        //speed = -normalSpeed
-   // }
-//}
+if(oInputs.xAxis > movementThreshold){
+     //is there space for me to move right?
+    if !place_meeting(x-normalSpeed, y, oWall) {
+        hspeed = -normalSpeed
+    }
+}
 
 // jumping
 // am i on the ground, and is there space above my head to jump?
