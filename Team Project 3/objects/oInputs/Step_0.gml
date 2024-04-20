@@ -5,6 +5,7 @@
 		yAxis = gamepad_axis_value(0,1)
 		rAxis = gamepad_axis_value(0,2)
 		uAxis = gamepad_axis_value(0,3)
+		lrmove =  gamepad_axis_value(0,gp_axislh)
 		
 	if gamepad_is_connected(1)	
 		xAxis2 = gamepad_axis_value(1,0)

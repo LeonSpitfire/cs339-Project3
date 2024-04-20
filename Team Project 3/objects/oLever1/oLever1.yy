@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oArrow",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oLever1",
+  "eventList":[],
   "managed":true,
-  "name":"oArrow",
+  "name":"oLever1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sarrow",
-    "path":"sprites/Sarrow/Sarrow.yy",
+    "name":"sLever1",
+    "path":"sprites/sLever1/sLever1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

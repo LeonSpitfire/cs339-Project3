@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oArrow",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Olightningbolt",
+  "eventList":[],
   "managed":true,
-  "name":"oArrow",
+  "name":"Olightningbolt",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sarrow",
-    "path":"sprites/Sarrow/Sarrow.yy",
+    "name":"S_lightning",
+    "path":"sprites/S_lightning/S_lightning.yy",
   },
   "spriteMaskId":null,
   "visible":true,
