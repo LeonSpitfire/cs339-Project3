@@ -19,6 +19,7 @@
   "ResourceOrderSettings":[
     {"name":"oArrow","order":6,"path":"objects/oArrow/oArrow.yy",},
     {"name":"oArtemisHunress","order":15,"path":"objects/oArtemisHunress/oArtemisHunress.yy",},
+    {"name":"oPlatformOlympus","order":16,"path":"objects/oPlatformOlympus/oPlatformOlympus.yy",},
     {"name":"Ofireball","order":11,"path":"objects/Ofireball/Ofireball.yy",},
     {"name":"oInputs","order":4,"path":"objects/oInputs/oInputs.yy",},
     {"name":"oLevelEnd","order":9,"path":"objects/oLevelEnd/oLevelEnd.yy",},
@@ -38,6 +39,7 @@
     {"name":"rTitle","order":5,"path":"rooms/rTitle/rTitle.yy",},
     {"name":"rUnderworld","order":3,"path":"rooms/rUnderworld/rUnderworld.yy",},
     {"name":"SlideTransition","order":1,"path":"scripts/SlideTransition/SlideTransition.yy",},
+    {"name":"OlympusPlatform","order":25,"path":"sprites/OlympusPlatform/OlympusPlatform.yy",},
     {"name":"olympusTop","order":5,"path":"sprites/olympusTop/olympusTop.yy",},
     {"name":"S_lightning","order":14,"path":"sprites/S_lightning/S_lightning.yy",},
     {"name":"Sarrow","order":4,"path":"sprites/Sarrow/Sarrow.yy",},

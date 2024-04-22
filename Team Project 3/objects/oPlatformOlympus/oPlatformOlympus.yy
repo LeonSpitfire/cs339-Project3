@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oPlayer",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oPlatformOlympus",
+  "eventList":[],
   "managed":true,
-  "name":"oPlayer",
+  "name":"oPlatformOlympus",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"splayer1",
-    "path":"sprites/splayer1/splayer1.yy",
+    "name":"OlympusPlatform",
+    "path":"sprites/OlympusPlatform/OlympusPlatform.yy",
   },
   "spriteMaskId":null,
   "visible":true,
