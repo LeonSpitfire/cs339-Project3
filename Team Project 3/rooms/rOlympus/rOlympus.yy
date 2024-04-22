@@ -464,12 +464,7 @@
     {"name":"inst_7D8EA","path":"rooms/rOlympus/rOlympus.yy",},
     {"name":"inst_1E5947C0","path":"rooms/rOlympus/rOlympus.yy",},
     {"name":"inst_4DE96CF5","path":"rooms/rOlympus/rOlympus.yy",},
-<<<<<<< HEAD
     {"name":"inst_41CB0D00","path":"rooms/rOlympus/rOlympus.yy",},
-=======
-    {"name":"inst_FD1CAD7","path":"rooms/rOlympus/rOlympus.yy",},
-    {"name":"inst_70DA47E3","path":"rooms/rOlympus/rOlympus.yy",},
->>>>>>> 4935ee7308bd574c4fc9b01be11cc6ddc922a52e
   ],
   "isDnd":false,
   "layers":[
@@ -933,12 +928,7 @@
         {"$GMRInstance":"","%Name":"inst_7D8EA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7D8EA","objectId":{"name":"oPlatformOlympus","path":"objects/oPlatformOlympus/oPlatformOlympus.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":1600.0,"y":5248.0,},
         {"$GMRInstance":"","%Name":"inst_1E5947C0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1E5947C0","objectId":{"name":"oPlatformOlympus","path":"objects/oPlatformOlympus/oPlatformOlympus.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":1600.0,"y":1699.0,},
         {"$GMRInstance":"","%Name":"inst_4DE96CF5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4DE96CF5","objectId":{"name":"oPlatformOlympus","path":"objects/oPlatformOlympus/oPlatformOlympus.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":1600.0,"y":1002.3362,},
-<<<<<<< HEAD
         {"$GMRInstance":"","%Name":"inst_41CB0D00","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_41CB0D00","objectId":{"name":"oLightningSpawner","path":"objects/oLightningSpawner/oLightningSpawner.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1572.0,"y":444.0,},
-=======
-        {"$GMRInstance":"","%Name":"inst_FD1CAD7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_FD1CAD7","objectId":{"name":"oOlympusWall","path":"objects/oOlympusWall/oOlympusWall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-0.059347026,"scaleX":1.5,"scaleY":1.0227352,"x":1568.0,"y":608.0,},
-        {"$GMRInstance":"","%Name":"inst_70DA47E3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_70DA47E3","objectId":{"name":"oOlympusWall","path":"objects/oOlympusWall/oOlympusWall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-0.059347026,"scaleX":1.5,"scaleY":1.0227352,"x":-86.54155,"y":608.0,},
->>>>>>> 4935ee7308bd574c4fc9b01be11cc6ddc922a52e
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Backgrounds_1","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Backgrounds_1","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"olympusTop","path":"sprites/olympusTop/olympusTop.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":300,"effectEnabled":true,"effectType":"_effect_windblown_particles","gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[

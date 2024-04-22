@@ -19,7 +19,6 @@
   "ResourceOrderSettings":[
     {"name":"oArrow","order":6,"path":"objects/oArrow/oArrow.yy",},
     {"name":"oArtemisHunress","order":15,"path":"objects/oArtemisHunress/oArtemisHunress.yy",},
-    {"name":"oOlympusWall","order":18,"path":"objects/oOlympusWall/oOlympusWall.yy",},
     {"name":"oCamera","order":17,"path":"objects/oCamera/oCamera.yy",},
     {"name":"Ofireball","order":11,"path":"objects/Ofireball/Ofireball.yy",},
     {"name":"oInputs","order":4,"path":"objects/oInputs/oInputs.yy",},
@@ -48,11 +47,6 @@
     {"name":"sFireball","order":15,"path":"sprites/sFireball/sFireball.yy",},
     {"name":"sLever1","order":17,"path":"sprites/sLever1/sLever1.yy",},
     {"name":"sLeverPull","order":18,"path":"sprites/sLeverPull/sLeverPull.yy",},
-<<<<<<< HEAD
-=======
-    {"name":"sLightning","order":2,"path":"sprites/sLightning/sLightning.yy",},
-    {"name":"sOlympusWall","order":26,"path":"sprites/sOlympusWall/sOlympusWall.yy",},
->>>>>>> 4935ee7308bd574c4fc9b01be11cc6ddc922a52e
     {"name":"sPlayer_1","order":8,"path":"sprites/sPlayer_1/sPlayer_1.yy",},
     {"name":"splayer_2","order":14,"path":"sprites/splayer_2/splayer_2.yy",},
     {"name":"sPlayer1_AttackAnmL","order":13,"path":"sprites/sPlayer1_AttackAnmL/sPlayer1_AttackAnmL.yy",},
