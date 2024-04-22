@@ -57,6 +57,7 @@
     {"id":{"name":"rOcean","path":"rooms/rOcean/rOcean.yy",},},
     {"id":{"name":"rOlympus","path":"rooms/rOlympus/rOlympus.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"rTitle","path":"rooms/rTitle/rTitle.yy",},},
     {"id":{"name":"rUnderworld","path":"rooms/rUnderworld/rUnderworld.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
@@ -90,6 +91,9 @@
     {"id":{"name":"sTrigger","path":"sprites/sTrigger/sTrigger.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"sWaterball","path":"sprites/sWaterball/sWaterball.yy",},},
+=======
+    {"id":{"name":"LightningboltSprite","path":"sprites/LightningboltSprite/LightningboltSprite.yy",},},
+>>>>>>> Stashed changes
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
