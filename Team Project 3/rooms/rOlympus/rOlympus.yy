@@ -464,8 +464,6 @@
     {"name":"inst_7D8EA","path":"rooms/rOlympus/rOlympus.yy",},
     {"name":"inst_1E5947C0","path":"rooms/rOlympus/rOlympus.yy",},
     {"name":"inst_4DE96CF5","path":"rooms/rOlympus/rOlympus.yy",},
-    {"name":"inst_FD1CAD7","path":"rooms/rOlympus/rOlympus.yy",},
-    {"name":"inst_70DA47E3","path":"rooms/rOlympus/rOlympus.yy",},
   ],
   "isDnd":false,
   "layers":[
