@@ -3,6 +3,7 @@
 if room == Room1 and  abs(oInputs.xAxis) > movementThreshold or room == Room1 and abs(oInputs.yAxis) > movementThreshold{
 	direction = oInputs.leftAnalogDirection
 	speed = movementSpeed
+	gravity = 0
 }
 else{
 	// keep me out of things horizontally
