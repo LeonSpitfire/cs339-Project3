@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oLightningSpawner",
+  "%Name":"oLightning",
   "eventList":[],
   "managed":true,
-  "name":"oLightningSpawner",
+  "name":"oLightning",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sLightning",
+    "path":"sprites/sLightning/sLightning.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
