@@ -73,4 +73,9 @@ and !place_meeting(x, y-jumpSpeed, oWall) {
 
 // friction to slow me down horizontally
 hspeed *= .9
+
+//if room == rOcean{
+	//jumpSpeed = 15
+	
+//}
 }
