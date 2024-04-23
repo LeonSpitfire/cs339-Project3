@@ -79,7 +79,6 @@
     {"name":"sPlayer1_AttackAnmR","order":12,"path":"sprites/sPlayer1_AttackAnmR/sPlayer1_AttackAnmR.yy",},
     {"name":"sPlayer1_walkAnimationL","order":11,"path":"sprites/sPlayer1_walkAnimationL/sPlayer1_walkAnimationL.yy",},
     {"name":"sPlayer1_walkAnimationR","order":10,"path":"sprites/sPlayer1_walkAnimationR/sPlayer1_walkAnimationR.yy",},
-    {"name":"splayer1","order":9,"path":"sprites/splayer1/splayer1.yy",},
     {"name":"sPlayer2_AttackAnmR","order":21,"path":"sprites/sPlayer2_AttackAnmR/sPlayer2_AttackAnmR.yy",},
     {"name":"splayer2_walkAnimationL","order":23,"path":"sprites/splayer2_walkAnimationL/splayer2_walkAnimationL.yy",},
     {"name":"splayer2_walkAnimationR","order":24,"path":"sprites/splayer2_walkAnimationR/splayer2_walkAnimationR.yy",},
