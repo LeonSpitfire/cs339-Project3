@@ -6,3 +6,4 @@ jumpSpeed = 20
 normalGravity = 1
 depth = -1
 
+health1 = 15

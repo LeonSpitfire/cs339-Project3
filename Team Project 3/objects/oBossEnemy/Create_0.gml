@@ -15,7 +15,7 @@ attacking_ranged_sprite = -1;
 
 // If a sprite is not defined, it will fall back to this one.
 // This will typically need to just be the walking sprite
-fallback_sprite = sEnemy;
+fallback_sprite = sBossEnemy;
 
 melee_distance = 32;
 damage = 5;

@@ -37,7 +37,7 @@ if(direct == "left") {
 	
 }
 
-if(place_meeting(x + hspeed, y - 16, global.collision_objects)) {
+if(place_meeting(x + hspeed, y - 16, oWall)) {
 	if(direct == "left") {
 		direct = "right";
 	} else {
@@ -45,7 +45,7 @@ if(place_meeting(x + hspeed, y - 16, global.collision_objects)) {
 	}
 }
 
-if(!collision_line(x - sprite_width / 2, y, x - sprite_width / 2, y + sprite_height, global.collision_objects, false, true)) {
+if(!collision_line(x - sprite_width / 2, y, x - sprite_width / 2, y + sprite_height, oWall, false, true)) {
 	if(direct == "left") {
 		direct = "right";	
 	} else {
@@ -56,11 +56,11 @@ if(!collision_line(x - sprite_width / 2, y, x - sprite_width / 2, y + sprite_hei
 
 vspd+=grv;
 
-if (place_meeting(x, y+vspd, global.collision_objects)){
+if (place_meeting(x, y+vspd, oWall)){
 
 	while (abs(vspd) > 0.1) {
 		vspd *= 0.5
-		if (!place_meeting(x, y + vspd, global.collision_objects)) y += vspd
+		if (!place_meeting(x, y + vspd, oWall)) y += vspd
 	}
 	
     vspd=0.0;
