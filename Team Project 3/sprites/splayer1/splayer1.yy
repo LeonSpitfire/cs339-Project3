@@ -3,7 +3,11 @@
   "%Name":"splayer1",
   "bboxMode":2,
   "bbox_bottom":63,
+<<<<<<< HEAD
   "bbox_left":11,
+=======
+  "bbox_left":8,
+>>>>>>> 5eb47e2d865d2cab6cf802a92c260278bee3b8f6
   "bbox_right":49,
   "bbox_top":0,
   "collisionKind":1,
