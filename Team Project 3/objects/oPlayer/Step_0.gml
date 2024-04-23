@@ -3,6 +3,7 @@
 if room == Room1 and  abs(oInputs.xAxis) > movementThreshold or room == Room1 and abs(oInputs.yAxis) > movementThreshold{
 	direction = oInputs.leftAnalogDirection
 	speed = movementSpeed
+	gravity = 0
 }
 else{
 	// keep me out of things horizontally
@@ -40,6 +41,7 @@ if abs(oInputs.xAxis > movementThreshold){
     // is there space for me to move right?
     if !place_meeting(x+normalSpeed, y, oWall) {
        hspeed = oInputs.xAxis*movementSpeed
+	   sprite_index = sPlayer1_walkAnimationR
 	  
 	   
     }
@@ -48,10 +50,13 @@ else if abs(oInputs.xAxis < -movementThreshold){
     // is there space for me to move right?
     if !place_meeting(x-normalSpeed, y, oWall) {
        hspeed = oInputs.xAxis*movementSpeed
+	   sprite_index = sPlayer1_walkAnimationL
 	  
 	   
     }
 } 
+else
+	sprite_index = splayer1
 //if abs(oInputs.xAxis > movementThreshold){
      //is there space for me to move right?
   //  if !place_meeting(x-normalSpeed, y, oWall) {
