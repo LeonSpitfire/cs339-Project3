@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
   "%Name":"splayer2_walkAnimationL",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":63,
-  "bbox_left":24,
-  "bbox_right":60,
+  "bbox_left":11,
+  "bbox_right":49,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,

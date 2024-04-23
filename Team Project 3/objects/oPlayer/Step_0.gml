@@ -41,6 +41,7 @@ if abs(oInputs.xAxis > movementThreshold){
     // is there space for me to move right?
     if !place_meeting(x+normalSpeed, y, oWall) {
        hspeed = oInputs.xAxis*movementSpeed
+	   sprite_index = sPlayer1_walkAnimationR
 	  
 	   
     }
@@ -49,10 +50,13 @@ else if abs(oInputs.xAxis < -movementThreshold){
     // is there space for me to move right?
     if !place_meeting(x-normalSpeed, y, oWall) {
        hspeed = oInputs.xAxis*movementSpeed
+	   sprite_index = sPlayer1_walkAnimationL
 	  
 	   
     }
 } 
+else
+	sprite_index = splayer1
 //if abs(oInputs.xAxis > movementThreshold){
      //is there space for me to move right?
   //  if !place_meeting(x-normalSpeed, y, oWall) {
