@@ -117,6 +117,7 @@
     {"id":{"name":"sPosiedonIdle","path":"sprites/sPosiedonIdle/sPosiedonIdle.yy",},},
     {"id":{"name":"sPosiedonPlatform","path":"sprites/sPosiedonPlatform/sPosiedonPlatform.yy",},},
     {"id":{"name":"sPosiedonWall","path":"sprites/sPosiedonWall/sPosiedonWall.yy",},},
+    {"id":{"name":"sArtemisAttack","path":"sprites/sArtemisAttack/sArtemisAttack.yy",},},
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
     {"id":{"name":"sTrigger","path":"sprites/sTrigger/sTrigger.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
@@ -129,8 +130,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rOcean","path":"rooms/rOcean/rOcean.yy",},},
     {"roomId":{"name":"rForest","path":"rooms/rForest/rForest.yy",},},
+    {"roomId":{"name":"rOcean","path":"rooms/rOcean/rOcean.yy",},},
     {"roomId":{"name":"rOlympus","path":"rooms/rOlympus/rOlympus.yy",},},
     {"roomId":{"name":"rTitle","path":"rooms/rTitle/rTitle.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
