@@ -19,6 +19,7 @@
   "ResourceOrderSettings":[
     {"name":"oArrow","order":6,"path":"objects/oArrow/oArrow.yy",},
     {"name":"oArtemisHunress","order":15,"path":"objects/oArtemisHunress/oArtemisHunress.yy",},
+    {"name":"oBossEnemy","order":28,"path":"objects/oBossEnemy/oBossEnemy.yy",},
     {"name":"oCamera","order":17,"path":"objects/oCamera/oCamera.yy",},
     {"name":"oCrossHairs","order":19,"path":"objects/oCrossHairs/oCrossHairs.yy",},
     {"name":"Ofireball","order":11,"path":"objects/Ofireball/Ofireball.yy",},
@@ -55,6 +56,7 @@
     {"name":"S_lightning","order":14,"path":"sprites/S_lightning/S_lightning.yy",},
     {"name":"Sarrow","order":4,"path":"sprites/Sarrow/Sarrow.yy",},
     {"name":"sArtemisHuntress","order":19,"path":"sprites/sArtemisHuntress/sArtemisHuntress.yy",},
+    {"name":"sBossEnemy","order":42,"path":"sprites/sBossEnemy/sBossEnemy.yy",},
     {"name":"sCrossHairs","order":27,"path":"sprites/sCrossHairs/sCrossHairs.yy",},
     {"name":"sFireball","order":15,"path":"sprites/sFireball/sFireball.yy",},
     {"name":"sForestBackground","order":33,"path":"sprites/sForestBackground/sForestBackground.yy",},

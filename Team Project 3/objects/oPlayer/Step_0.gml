@@ -56,7 +56,7 @@ else if abs(oInputs.xAxis < -movementThreshold){
     }
 } 
 else
-	sprite_index = splayer1
+	sprite_index = sPlayer1
 //if abs(oInputs.xAxis > movementThreshold){
      //is there space for me to move right?
   //  if !place_meeting(x-normalSpeed, y, oWall) {
@@ -73,4 +73,9 @@ and !place_meeting(x, y-jumpSpeed, oWall) {
 
 // friction to slow me down horizontally
 hspeed *= .9
+
+//if room == rOcean{
+	//jumpSpeed = 15
+	
+//}
 }

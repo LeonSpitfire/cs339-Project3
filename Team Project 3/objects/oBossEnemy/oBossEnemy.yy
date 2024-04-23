@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"oForestPlatform",
-  "eventList":[],
+  "%Name":"oBossEnemy",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"oForestPlatform",
+  "name":"oBossEnemy",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"oWall",
-    "path":"objects/oWall/oWall.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sForestPlatform",
-    "path":"sprites/sForestPlatform/sForestPlatform.yy",
+    "name":"sBossEnemy",
+    "path":"sprites/sBossEnemy/sBossEnemy.yy",
   },
   "spriteMaskId":null,
   "visible":true,
