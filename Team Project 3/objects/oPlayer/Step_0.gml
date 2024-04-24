@@ -83,6 +83,10 @@ and !place_meeting(x, y-jumpSpeed, oWall) {
     } 
 // friction to slow me down horizontally
 hspeed *= .9
+//When the player gets below 0 health, it restarts the game
+if(health1 < 0){
+	game_restart();
+ }
 //if room == rOcean{
 	//jumpSpeed = 15
 	

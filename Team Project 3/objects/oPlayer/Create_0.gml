@@ -6,6 +6,6 @@ jumpSpeed = 20
 normalGravity = 1
 depth = -1
 
-health1 = 15
+health1 = 5
 
 attack = sPlayer1_AttackAnmL

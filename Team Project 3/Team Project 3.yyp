@@ -120,6 +120,7 @@
     {"id":{"name":"sPosiedonIdle","path":"sprites/sPosiedonIdle/sPosiedonIdle.yy",},},
     {"id":{"name":"sPosiedonPlatform","path":"sprites/sPosiedonPlatform/sPosiedonPlatform.yy",},},
     {"id":{"name":"sPosiedonWall","path":"sprites/sPosiedonWall/sPosiedonWall.yy",},},
+    {"id":{"name":"sMap","path":"sprites/sMap/sMap.yy",},},
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
     {"id":{"name":"sTrigger","path":"sprites/sTrigger/sTrigger.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
