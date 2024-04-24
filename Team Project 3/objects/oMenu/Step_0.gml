@@ -26,6 +26,7 @@ if (menu_control) {
             menu_commited = menu_cursor;
             menu_control = false;
         }
+		audio_play_sound(snd_button,2,false);
     }
 }
 

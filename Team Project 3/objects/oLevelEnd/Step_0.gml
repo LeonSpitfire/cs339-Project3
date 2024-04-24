@@ -18,6 +18,7 @@ oCrossHairs_nearby = place_meeting(x, y, oCrossHairs);
 if (oCrossHairs_nearby && hascontrol) {
     // Check if the A button is pressed
     if (gamepad_button_check_pressed(0, gp_face1)) {
+		audio_play_sound(snd_button,2,false);
         // Perform confirmation actions here (e.g., start next level)
         SlideTransition(TRANS_MODE.GOTO, other.target); // Transition to the next room
         hascontrol = false; 
@@ -33,6 +34,7 @@ if(oPlayer_nearby && hascontrol){
 	}
 }
 
+//audio_play_sound(snd_button,2,false);
 /*if(!instance_exists(oBossEnemy))
 //{
 	SlideTransition(TRANS_MODE.GOTO, other.target);
