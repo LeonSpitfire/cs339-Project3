@@ -24,25 +24,19 @@ if (oCrossHairs_nearby && hascontrol) {
     }
 }
 
+oPlayer_nearby = place_meeting(x,y,oPlayer);
+
+if(oPlayer_nearby && hascontrol){
+	if(gamepad_button_check_pressed(0, gp_face1)){
+		SlideTransition(TRANS_MODE.GOTO, other.target);
+		hascontrol = false;
+	}
+}
+
 /*if(!instance_exists(oBossEnemy))
 //{
 	SlideTransition(TRANS_MODE.GOTO, other.target);
 	hascontrol = false;
-}
-
-/*
-/// Step Event of levelEnd Object
-// Desc Checking if both players are colliding with the object
-var crosshairs_nearby = place_meeting(x, y, oCrosshairs);
-
-// Check if the crosshairs is nearby and the A button is pressed
-if (crosshairs_nearby && hascontrol) {
-    // Check if the A button is pressed
-    if (gamepad_button_check_pressed(0, gp_face1)) {
-        // Perform confirmation actions here (e.g., start next level)
-        SlideTransition(TRANS_MODE.GOTO, other.target); // Transition to the next room
-        hascontrol = false; // Disable control to prevent multiple transitions
-    }
 }
 
 */

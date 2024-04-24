@@ -19,6 +19,7 @@
   "ResourceOrderSettings":[
     {"name":"oArrow","order":6,"path":"objects/oArrow/oArrow.yy",},
     {"name":"oArtemisHunress","order":15,"path":"objects/oArtemisHunress/oArtemisHunress.yy",},
+    {"name":"oTeleporter","order":33,"path":"objects/oTeleporter/oTeleporter.yy",},
     {"name":"oBossEnemy","order":28,"path":"objects/oBossEnemy/oBossEnemy.yy",},
     {"name":"oCamera","order":17,"path":"objects/oCamera/oCamera.yy",},
     {"name":"oCrossHairs","order":19,"path":"objects/oCrossHairs/oCrossHairs.yy",},
@@ -104,6 +105,7 @@
     {"name":"sPosiedonWall","order":41,"path":"sprites/sPosiedonWall/sPosiedonWall.yy",},
     {"name":"Sprite54","order":53,"path":"sprites/Sprite54/Sprite54.yy",},
     {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"sTeleporter","order":54,"path":"sprites/sTeleporter/sTeleporter.yy",},
     {"name":"sTrigger","order":7,"path":"sprites/sTrigger/sTrigger.yy",},
     {"name":"sUnderworldMap","order":52,"path":"sprites/sUnderworldMap/sUnderworldMap.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
