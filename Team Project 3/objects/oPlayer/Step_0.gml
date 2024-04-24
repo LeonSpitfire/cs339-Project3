@@ -74,6 +74,9 @@ and !place_meeting(x, y-jumpSpeed, oWall) {
 // friction to slow me down horizontally
 hspeed *= .9
 
+if gamepad_button_check_pressed(0,11){
+	sprite_index = sPlayer1_AttackAnmL
+}
 //if room == rOcean{
 	//jumpSpeed = 15
 	
