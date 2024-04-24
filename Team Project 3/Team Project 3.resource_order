@@ -19,10 +19,7 @@
   "ResourceOrderSettings":[
     {"name":"oArrow","order":6,"path":"objects/oArrow/oArrow.yy",},
     {"name":"oArtemisHunress","order":15,"path":"objects/oArtemisHunress/oArtemisHunress.yy",},
-<<<<<<< HEAD
     {"name":"oTeleporter","order":34,"path":"objects/oTeleporter/oTeleporter.yy",},
-=======
->>>>>>> 8d73da92e807ca47f1241a2f0f3fe9111d6e824c
     {"name":"oBossEnemy","order":28,"path":"objects/oBossEnemy/oBossEnemy.yy",},
     {"name":"oCamera","order":17,"path":"objects/oCamera/oCamera.yy",},
     {"name":"oCrossHairs","order":19,"path":"objects/oCrossHairs/oCrossHairs.yy",},
@@ -49,7 +46,6 @@
     {"name":"oPlayer2","order":5,"path":"objects/oPlayer2/oPlayer2.yy",},
     {"name":"oPosiedonPlatform","order":25,"path":"objects/oPosiedonPlatform/oPosiedonPlatform.yy",},
     {"name":"oPosiedonWall","order":26,"path":"objects/oPosiedonWall/oPosiedonWall.yy",},
-    {"name":"oTeleporter","order":33,"path":"objects/oTeleporter/oTeleporter.yy",},
     {"name":"oTransition","order":8,"path":"objects/oTransition/oTransition.yy",},
     {"name":"oUnderworldMap","order":31,"path":"objects/oUnderworldMap/oUnderworldMap.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
@@ -107,13 +103,8 @@
     {"name":"sPosiedonIdle","order":45,"path":"sprites/sPosiedonIdle/sPosiedonIdle.yy",},
     {"name":"sPosiedonPlatform","order":40,"path":"sprites/sPosiedonPlatform/sPosiedonPlatform.yy",},
     {"name":"sPosiedonWall","order":41,"path":"sprites/sPosiedonWall/sPosiedonWall.yy",},
-    {"name":"sTitle","order":54,"path":"sprites/sTitle/sTitle.yy",},
     {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
-<<<<<<< HEAD
     {"name":"sTeleporter","order":33,"path":"sprites/sTeleporter/sTeleporter.yy",},
-=======
-    {"name":"sTeleporter","order":53,"path":"sprites/sTeleporter/sTeleporter.yy",},
->>>>>>> 8d73da92e807ca47f1241a2f0f3fe9111d6e824c
     {"name":"sTrigger","order":7,"path":"sprites/sTrigger/sTrigger.yy",},
     {"name":"sUnderworldMap","order":52,"path":"sprites/sUnderworldMap/sUnderworldMap.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
