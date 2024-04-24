@@ -23,6 +23,12 @@ if (oCrossHairs_nearby && hascontrol) {
         hascontrol = false; 
     }
 }
+
+if(!instance_exists(oBossEnemy))
+{
+	SlideTransition(TRANS_MODE.GOTO, other.target);
+	hascontrol = false;
+}
 /*
 /// Step Event of levelEnd Object
 // Desc Checking if both players are colliding with the object

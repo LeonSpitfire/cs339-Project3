@@ -6,4 +6,12 @@ jumpSpeed = 20
 normalGravity = 1
 depth = -1
 
-health2 = 5
+oMaxHealth = 5
+oHealth = undefined;
+
+isHurt = false;
+invincibilityTimeMax = 20;
+invincibilityTimer = 0;
+flashForFrames = 10;
+
+attack = sPlayer1_AttackAnmL

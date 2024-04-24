@@ -1,5 +1,9 @@
 /// @description Controller Movement
 // You can write your code in this editor
+if(oHealth == undefined){
+	oHealth = oMaxHealth;
+}
+
 if room == Room1 and  abs(oInputs.xAxis) > movementThreshold or room == Room1 and abs(oInputs.yAxis) > movementThreshold{
 	direction = oInputs.leftAnalogDirection
 	speed = movementSpeed
@@ -85,7 +89,7 @@ and !place_meeting(x, y-jumpSpeed, oWall) {
 // friction to slow me down horizontally
 hspeed *= .9
 //When the player gets below 0 health, it restarts the game
-if(health1 < 0){
+if(oHealth < 0){
 	game_restart();
  }
 //if room == rOcean{
