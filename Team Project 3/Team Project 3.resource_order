@@ -97,7 +97,7 @@
     {"name":"sPosiedonIdle","order":45,"path":"sprites/sPosiedonIdle/sPosiedonIdle.yy",},
     {"name":"sPosiedonPlatform","order":40,"path":"sprites/sPosiedonPlatform/sPosiedonPlatform.yy",},
     {"name":"sPosiedonWall","order":41,"path":"sprites/sPosiedonWall/sPosiedonWall.yy",},
-    {"name":"Sprite50","order":51,"path":"sprites/Sprite50/Sprite50.yy",},
+    {"name":"sMap","order":51,"path":"sprites/sMap/sMap.yy",},
     {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"sTrigger","order":7,"path":"sprites/sTrigger/sTrigger.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
