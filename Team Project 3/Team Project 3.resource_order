@@ -19,7 +19,7 @@
   "ResourceOrderSettings":[
     {"name":"oArrow","order":6,"path":"objects/oArrow/oArrow.yy",},
     {"name":"oArtemisHunress","order":15,"path":"objects/oArtemisHunress/oArtemisHunress.yy",},
-    {"name":"oTeleporter","order":33,"path":"objects/oTeleporter/oTeleporter.yy",},
+    {"name":"oDrawTitle","order":34,"path":"objects/oDrawTitle/oDrawTitle.yy",},
     {"name":"oBossEnemy","order":28,"path":"objects/oBossEnemy/oBossEnemy.yy",},
     {"name":"oCamera","order":17,"path":"objects/oCamera/oCamera.yy",},
     {"name":"oCrossHairs","order":19,"path":"objects/oCrossHairs/oCrossHairs.yy",},
@@ -46,6 +46,7 @@
     {"name":"oPlayer2","order":5,"path":"objects/oPlayer2/oPlayer2.yy",},
     {"name":"oPosiedonPlatform","order":25,"path":"objects/oPosiedonPlatform/oPosiedonPlatform.yy",},
     {"name":"oPosiedonWall","order":26,"path":"objects/oPosiedonWall/oPosiedonWall.yy",},
+    {"name":"oTeleporter","order":33,"path":"objects/oTeleporter/oTeleporter.yy",},
     {"name":"oTransition","order":8,"path":"objects/oTransition/oTransition.yy",},
     {"name":"oUnderworldMap","order":31,"path":"objects/oUnderworldMap/oUnderworldMap.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
