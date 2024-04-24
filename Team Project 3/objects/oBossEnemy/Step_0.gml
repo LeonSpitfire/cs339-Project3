@@ -133,7 +133,7 @@ if(state == eState.HUNTING) {
 }
 
 if(isMeleeAttacking) {
-	damage_object(oPlayer, damage)
+	damage_object(oParentPlayer, damage)
 	isMeleeAttacking = false;
 } else if(isRangedAttacking) {
 	if(object_exists(rangedObject)) {
