@@ -1,9 +1,9 @@
 {
   "$GMSprite":"",
   "%Name":"sArtemisAttack",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":94,
-  "bbox_left":28,
+  "bbox_left":29,
   "bbox_right":116,
   "bbox_top":29,
   "collisionKind":1,

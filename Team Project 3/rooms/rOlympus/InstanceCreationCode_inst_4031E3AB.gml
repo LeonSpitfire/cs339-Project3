@@ -2,7 +2,7 @@ rangedObject = Olightningbolt;
 oMaxHealth = 10;
 isBoss = true;
 
-idle_sprite = -sZuesIdle;
+idle_sprite = sZuesIdle;
 walking_sprite = sZuesMovementL;
 hunting_sprite = sZuesMovementL; // Typically the same as the walking sprite but can be changed
 attacking_melee_sprite = sZuesAttack;

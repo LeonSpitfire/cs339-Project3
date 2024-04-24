@@ -37,7 +37,10 @@
     {"id":{"name":"fTitle","path":"fonts/fTitle/fTitle.yy",},},
     {"id":{"name":"oArrow","path":"objects/oArrow/oArrow.yy",},},
     {"id":{"name":"oArtemisHunress","path":"objects/oArtemisHunress/oArtemisHunress.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"oTeleporter","path":"objects/oTeleporter/oTeleporter.yy",},},
+=======
+>>>>>>> 8d73da92e807ca47f1241a2f0f3fe9111d6e824c
     {"id":{"name":"oBossEnemy","path":"objects/oBossEnemy/oBossEnemy.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oCrossHairs","path":"objects/oCrossHairs/oCrossHairs.yy",},},
@@ -65,6 +68,7 @@
     {"id":{"name":"oPlayer2","path":"objects/oPlayer2/oPlayer2.yy",},},
     {"id":{"name":"oPosiedonPlatform","path":"objects/oPosiedonPlatform/oPosiedonPlatform.yy",},},
     {"id":{"name":"oPosiedonWall","path":"objects/oPosiedonWall/oPosiedonWall.yy",},},
+    {"id":{"name":"oTeleporter","path":"objects/oTeleporter/oTeleporter.yy",},},
     {"id":{"name":"oTransition","path":"objects/oTransition/oTransition.yy",},},
     {"id":{"name":"oUnderworldMap","path":"objects/oUnderworldMap/oUnderworldMap.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
@@ -125,6 +129,7 @@
     {"id":{"name":"sPosiedonIdle","path":"sprites/sPosiedonIdle/sPosiedonIdle.yy",},},
     {"id":{"name":"sPosiedonPlatform","path":"sprites/sPosiedonPlatform/sPosiedonPlatform.yy",},},
     {"id":{"name":"sPosiedonWall","path":"sprites/sPosiedonWall/sPosiedonWall.yy",},},
+    {"id":{"name":"sTitle","path":"sprites/sTitle/sTitle.yy",},},
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
     {"id":{"name":"sTeleporter","path":"sprites/sTeleporter/sTeleporter.yy",},},
     {"id":{"name":"sTrigger","path":"sprites/sTrigger/sTrigger.yy",},},
@@ -141,9 +146,15 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rTitle","path":"rooms/rTitle/rTitle.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+<<<<<<< HEAD
+=======
     {"roomId":{"name":"rForest","path":"rooms/rForest/rForest.yy",},},
     {"roomId":{"name":"rOcean","path":"rooms/rOcean/rOcean.yy",},},
     {"roomId":{"name":"rOlympus","path":"rooms/rOlympus/rOlympus.yy",},},
+>>>>>>> 34e8e49df8de640ba9e5fa1c668a6a04063369c6
+    {"roomId":{"name":"rOlympus","path":"rooms/rOlympus/rOlympus.yy",},},
+    {"roomId":{"name":"rForest","path":"rooms/rForest/rForest.yy",},},
+    {"roomId":{"name":"rOcean","path":"rooms/rOcean/rOcean.yy",},},
     {"roomId":{"name":"rOlympus","path":"rooms/rOlympus/rOlympus.yy",},},
     {"roomId":{"name":"rUnderworld","path":"rooms/rUnderworld/rUnderworld.yy",},},
   ],
