@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oBossEnemy",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oTeleporter",
+  "eventList":[],
   "managed":true,
-  "name":"oBossEnemy",
+  "name":"oTeleporter",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"sBossEnemy",
-    "path":"sprites/sBossEnemy/sBossEnemy.yy",
+    "name":"sTeleporter",
+    "path":"sprites/sTeleporter/sTeleporter.yy",
   },
   "spriteMaskId":null,
   "visible":true,
