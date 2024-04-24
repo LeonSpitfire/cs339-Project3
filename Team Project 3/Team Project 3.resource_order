@@ -55,6 +55,7 @@
     {"name":"check_vertical_line_collision","order":4,"path":"scripts/check_vertical_line_collision/check_vertical_line_collision.yy",},
     {"name":"draw_reset","order":2,"path":"scripts/draw_reset/draw_reset.yy",},
     {"name":"is_on_same_platform","order":3,"path":"scripts/is_on_same_platform/is_on_same_platform.yy",},
+    {"name":"damage_object","order":5,"path":"scripts/damage_object/damage_object.yy",},
     {"name":"SlideTransition","order":1,"path":"scripts/SlideTransition/SlideTransition.yy",},
     {"name":"OlympusPlatform","order":25,"path":"sprites/OlympusPlatform/OlympusPlatform.yy",},
     {"name":"olympusTop","order":5,"path":"sprites/olympusTop/olympusTop.yy",},

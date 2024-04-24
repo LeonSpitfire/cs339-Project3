@@ -76,6 +76,7 @@
     {"id":{"name":"draw_reset","path":"scripts/draw_reset/draw_reset.yy",},},
     {"id":{"name":"is_on_same_platform","path":"scripts/is_on_same_platform/is_on_same_platform.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"damage_object","path":"scripts/damage_object/damage_object.yy",},},
     {"id":{"name":"SlideTransition","path":"scripts/SlideTransition/SlideTransition.yy",},},
     {"id":{"name":"OlympusPlatform","path":"sprites/OlympusPlatform/OlympusPlatform.yy",},},
     {"id":{"name":"olympusTop","path":"sprites/olympusTop/olympusTop.yy",},},
