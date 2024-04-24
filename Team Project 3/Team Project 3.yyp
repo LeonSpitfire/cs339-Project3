@@ -111,6 +111,7 @@
     {"id":{"name":"sPlayer1_walkAnimationR","path":"sprites/sPlayer1_walkAnimationR/sPlayer1_walkAnimationR.yy",},},
     {"id":{"name":"sPlayer1","path":"sprites/sPlayer1/sPlayer1.yy",},},
     {"id":{"name":"splayer2_AttackAnimationL","path":"sprites/splayer2_AttackAnimationL/splayer2_AttackAnimationL.yy",},},
+    {"id":{"name":"splayer2_AttackAnimationR","path":"sprites/splayer2_AttackAnimationR/splayer2_AttackAnimationR.yy",},},
     {"id":{"name":"splayer2_walkAnimationL","path":"sprites/splayer2_walkAnimationL/splayer2_walkAnimationL.yy",},},
     {"id":{"name":"splayer2_walkAnimationR","path":"sprites/splayer2_walkAnimationR/splayer2_walkAnimationR.yy",},},
     {"id":{"name":"sPlayer2","path":"sprites/sPlayer2/sPlayer2.yy",},},

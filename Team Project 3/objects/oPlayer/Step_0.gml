@@ -70,15 +70,20 @@ if gamepad_button_check(0,12) and place_meeting(x, y+normalGravity, oWall)
 and !place_meeting(x, y-jumpSpeed, oWall) {
     vspeed = -jumpSpeed
 }
-
+// Attack animation
+    if ((gamepad_button_check(0, gp_shoulderrb))){
+        // Play attack animation
+        sprite_index = sPlayer1_AttackAnmL;
+		image_speed = 0.5;
+		
+		if(direction == 0){
+			sprite_index = sPlayer1_AttackAnmR;
+			image_speed = 0.5;
+		}
+    } 
 // friction to slow me down horizontally
 hspeed *= .9
-
-if gamepad_button_check_pressed(0,11){
-	sprite_index = sPlayer1_AttackAnmL
-}
 //if room == rOcean{
 	//jumpSpeed = 15
 	
-//}
 }
