@@ -27,6 +27,6 @@ menu_cursor = 2;
 //Lower to 0, quicker it gets and 0.2 is good middle
 menu_cursor_speed = 0.3;
 // menu music
-//audio_play_sound(menu_music, 0.5, true);
+audio_play_sound(menu_music, 0.5, true);
 
 

@@ -24,14 +24,10 @@ if (oCrossHairs_nearby && hascontrol) {
     }
 }
 
-oPlayer_nearby = place_meeting(x,y, oPlayer);
-
-if(oPlayer_nearby && hascontrol){
-	//check if "A" button is pressed
-	if (gamepad_button_check_pressed(0, gp_face1)){
-		SlideTransition(TRANS_MODE.GOTO, other.target);
-		hascontrol = false;
-	}
+if(!instance_exists(oBossEnemy))
+{
+	SlideTransition(TRANS_MODE.GOTO, other.target);
+	hascontrol = false;
 }
 /*
 /// Step Event of levelEnd Object
