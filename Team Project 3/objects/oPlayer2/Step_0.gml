@@ -69,20 +69,23 @@ and !place_meeting(x, y-jumpSpeed, oWall) {
     vspeed = -jumpSpeed
 }
 // Attack animation
-    if (gamepad_button_check_pressed(0, gp_shoulderrb)) {
+    if ((gamepad_button_check(1, gp_shoulderrb))){
         // Play attack animation
-        sprite_index = splayer2_AttackAnimationL;
+        sprite_index = splayer2_AttackAnimationR;
 		image_speed = 0.5;
 		
 		if(direction == 0){
-			sprite_index = splayer2_AttackAnimationR;
+			sprite_index = splayer2_AttackAnimationL;
 			image_speed = 0.5;
 		}
-    }
+    } 
 
 // friction to slow me down horizontally
 hspeed *= .9
-
+//When the player gets below 0 health, it restarts the game
+ if(health2 < 0){
+	game_restart();
+ }
 //if room == rOcean{
 //	jumpSpeed = 15
 	
