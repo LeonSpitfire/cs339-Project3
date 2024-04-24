@@ -7,3 +7,5 @@ normalGravity = 1
 depth = -1
 
 health1 = 15
+
+attack = sPlayer1_AttackAnmL
