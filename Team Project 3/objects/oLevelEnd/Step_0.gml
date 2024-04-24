@@ -23,6 +23,7 @@ if (oCrossHairs_nearby && hascontrol) {
         hascontrol = false; 
     }
 }
+<<<<<<< HEAD
 oPlayer_nearby = place_meeting(x,y, oPlayer);
 
 if(oPlayer_nearby && hascontrol){
@@ -32,6 +33,13 @@ if(oPlayer_nearby && hascontrol){
 		SlideTransition(TRANS_MODE.GOTO, other.target)
 		hascontrol = false;
 	}
+=======
+
+if(!instance_exists(oBossEnemy))
+{
+	SlideTransition(TRANS_MODE.GOTO, other.target);
+	hascontrol = false;
+>>>>>>> 34e8e49df8de640ba9e5fa1c668a6a04063369c6
 }
 /*
 /// Step Event of levelEnd Object
