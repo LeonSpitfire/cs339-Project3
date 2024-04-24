@@ -14,6 +14,7 @@
     {"name":"inst_781A28AF","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_2E5D3858","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_232CC0DC","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_3A023AD0","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -26,6 +27,7 @@
         {"$GMRInstance":"","%Name":"inst_781A28AF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_781A28AF","objectId":{"name":"oForestMap","path":"objects/oForestMap/oForestMap.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":1.875,"x":160.0,"y":416.0,},
         {"$GMRInstance":"","%Name":"inst_2E5D3858","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2E5D3858","objectId":{"name":"oUnderworldMap","path":"objects/oUnderworldMap/oUnderworldMap.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.8750001,"scaleY":1.25,"x":448.0,"y":448.0,},
         {"$GMRInstance":"","%Name":"inst_232CC0DC","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_232CC0DC","objectId":{"name":"oLevelEnd","path":"objects/oLevelEnd/oLevelEnd.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.5,"scaleY":4.5,"x":640.0,"y":144.0,},
+        {"$GMRInstance":"","%Name":"inst_3A023AD0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3A023AD0","objectId":{"name":"oOceanMap","path":"objects/oOceanMap/oOceanMap.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":8.631786,"scaleX":2.0,"scaleY":2.125,"x":320.0,"y":-64.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"sMap","path":"sprites/sMap/sMap.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
