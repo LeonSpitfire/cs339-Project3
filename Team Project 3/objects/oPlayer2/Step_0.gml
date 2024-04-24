@@ -68,6 +68,9 @@ if gamepad_button_check(1,12) and place_meeting(x, y+normalGravity, oWall)
 and !place_meeting(x, y-jumpSpeed, oWall) {
     vspeed = -jumpSpeed
 }
+if(gamepad_button_check_pressed(1,11)){
+	sprite_index = splayer2_walkAnimationL;
+}
 
 // friction to slow me down horizontally
 hspeed *= .9
