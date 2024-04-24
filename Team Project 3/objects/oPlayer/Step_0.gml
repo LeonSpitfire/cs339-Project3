@@ -80,6 +80,7 @@ and !place_meeting(x, y-jumpSpeed, oWall) {
 			sprite_index = sPlayer1_AttackAnmR;
 			image_speed = 0.5;
 		}
+		damage_object(oBossEnemy,1)
     } 
 // friction to slow me down horizontally
 hspeed *= .9
