@@ -38,6 +38,7 @@
     {"id":{"name":"oArrow","path":"objects/oArrow/oArrow.yy",},},
     {"id":{"name":"oArtemisHunress","path":"objects/oArtemisHunress/oArtemisHunress.yy",},},
     {"id":{"name":"oBackgroundMusic","path":"objects/oBackgroundMusic/oBackgroundMusic.yy",},},
+    {"id":{"name":"oCredit","path":"objects/oCredit/oCredit.yy",},},
     {"id":{"name":"oBossEnemy","path":"objects/oBossEnemy/oBossEnemy.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oCrossHairs","path":"objects/oCrossHairs/oCrossHairs.yy",},},
@@ -71,6 +72,7 @@
     {"id":{"name":"oUnderworldMap","path":"objects/oUnderworldMap/oUnderworldMap.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"oWaterball","path":"objects/oWaterball/oWaterball.yy",},},
+    {"id":{"name":"rCredit","path":"rooms/rCredit/rCredit.yy",},},
     {"id":{"name":"rForest","path":"rooms/rForest/rForest.yy",},},
     {"id":{"name":"rOcean","path":"rooms/rOcean/rOcean.yy",},},
     {"id":{"name":"rOlympus","path":"rooms/rOlympus/rOlympus.yy",},},
@@ -151,6 +153,7 @@
     {"roomId":{"name":"rOcean","path":"rooms/rOcean/rOcean.yy",},},
     {"roomId":{"name":"rOlympus","path":"rooms/rOlympus/rOlympus.yy",},},
     {"roomId":{"name":"rUnderworld","path":"rooms/rUnderworld/rUnderworld.yy",},},
+    {"roomId":{"name":"rCredit","path":"rooms/rCredit/rCredit.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
