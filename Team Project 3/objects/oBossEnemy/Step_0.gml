@@ -138,7 +138,7 @@ if(isMeleeAttacking) {
 } else if(isRangedAttacking) {
 	if(object_exists(rangedObject)) {
 		obj = instance_create_layer(x,y - 50,"Instances", rangedObject);
-		obj.direction = point_direction(x,y - 50,oPlayer.x, oPlayer.y - oPlayer.sprite_height / 2);
+		obj.direction = point_direction(x,y - 50,oParentPlayer.x, oParentPlayer.y - oParentPlayer.sprite_height / 2);
 	}
 	isRangedAttacking = false;
 }
